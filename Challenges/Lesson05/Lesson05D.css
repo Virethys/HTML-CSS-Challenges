@@ -1,0 +1,24 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+
+.user {
+  margin-bottom: 5px;
+}
+.author {
+  font-weight: bold;
+}
+.info {
+  color: rgb(100, 100, 100);
+}
+.content {
+  margin-bottom: 20px;
+  width: 600px;
+  line-height: 25px;
+}
+.mention {
+  color: rgb(29, 155, 240);
+}

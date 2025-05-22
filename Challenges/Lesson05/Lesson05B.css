@@ -1,0 +1,35 @@
+p {
+  text-align: center;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.New {
+  color: orange;
+  margin-bottom: 10px;
+}
+.Item {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.Desc {
+  font-size: 40px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.Price {
+  margin-bottom: 25px;
+}
+.Buy {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}

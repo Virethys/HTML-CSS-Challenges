@@ -1,0 +1,93 @@
+.tahoma {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+/* 5B */
+.Deal {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.End {
+  margin-top: 0px;
+  font-style: italic;
+  font-family: Arial;
+  font-size: 18px;
+  color: red;
+}
+
+/* 5C */
+/*p {
+    font-family: Verdana;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  } normally this would be the case, but since it's in one folder, it has to be changed */
+.Course {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 3px;
+  margin-top: 0px;
+}
+
+.Tier {
+  font-family: Verdana;
+  color: rgb(100, 100, 100);
+  margin-bottom: 18px;
+  margin-top: 0px;
+}
+
+.Desc {
+  font-family: Verdana;
+  width: 300px;
+  line-height: 22px;
+  margin-bottom: 18px;
+  margin-top: 0px;
+}
+
+.GetStarted {
+  font-family: Verdana;
+  background-color: green;
+  color: white;
+  border-radius: 6px;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+}
+
+/* 5D */
+/* p {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  } */
+
+.Shop {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Arial;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.Apple {
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Arial;
+}
+
+.LearnMore {
+  color: rgb(58, 108, 199);
+  text-align: center;
+  margin-top: 0px;
+  font-family: Arial;
+}
